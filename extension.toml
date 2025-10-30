@@ -8,7 +8,7 @@ repository = "https://github.com/sst/opencode-zed-extension"
 
 [agent_servers.opencode]
 name = "OpenCode"
-icon = "opencode.svg"
+icon = "./icons/opencode.svg"
 
 [agent_servers.opencode.targets.darwin-aarch64]
 archive = "https://github.com/sst/opencode/releases/latest/download/opencode-darwin-arm64.zip"
